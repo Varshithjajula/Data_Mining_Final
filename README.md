@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. Navigate to the folder containing the notebook or script.
 2. Open the notebook and select **Run All** from the toolbar to execute all code cells sequentially, or run the main script:
    ```bash
-   python main.py
+   python Varshith_Jagula_FinalTermProj.py
    ```
 
 ### Example Usage:
