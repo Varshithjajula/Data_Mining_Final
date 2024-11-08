@@ -43,12 +43,15 @@ pip install -r requirements.txt
 3. **Comparing Results**: The script provides a comparison of model performance metrics to help identify the most suitable model for this classification task.
 
 ### Steps to Run
-
-1. Navigate to the folder containing the notebook or script.
-2. Open the notebook and select **Run All** from the toolbar to execute all code cells sequentially, or run the main script:
-   ```bash
-   python Varshith_Jagula_FinalTermProj.py
-   ```
+**For `.ipynb` (Jupyter Notebook):** 
+1. Install Packages: Run `pip install -r requirements.txt` to install all required packages.  
+2. Open the Jupyter Notebook in the project folder.
+4. Run All Cells: In the Jupyter Notebook, go to the Cell menu and select Run All to execute all code cells.  
+5. Review the Results: Check the output under each cell for the results.  
+**For `.py` (Python Script):**
+1. Navigate to Folder: Open project folder and open CMD from there. 
+2. Run Script: Execute the script by running `python Varshith_Jagula_FinalTermProj.py`.  
+3. Review the Results: Check the terminal output for results and messages.
 
 ### Example Usage:
 
