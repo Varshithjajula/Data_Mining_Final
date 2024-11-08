@@ -66,20 +66,20 @@ pip install -r requirements.txt
      
    - Calculations for other performance metrics using formulas:
 
--	Precision: Measures how many of the predicted positive cases are actually positive.
--	Recall (True Positive Rate): Measures how well the model identifies actual positive cases.
--	True Negative Rate (Specificity): Measures how well the model identifies actual negative cases.
--	False Positive Rate (FPR): Measures the proportion of actual negatives incorrectly predicted as positive.
--	False Negative Rate (FNR): Measures the proportion of actual positives incorrectly predicted as negative.
--	Balanced Accuracy (BACC): Provides a balanced view of accuracy across classes, especially useful for imbalanced datasets.
--	True Skill Statistic (TSS): Assesses the model's ability to distinguish between classes.
--	Heidke Skill Score (HSS): Compares model performance to random chance.
--	F1 Score: Balances Precision and Recall, offering a combined view of the two metrics.
--	Accuracy: Overall correctness of the model’s predictions across both positive and negative cases.
--	Error Rate: Proportion of incorrect predictions made by the model.
--	Sklearn Accuracy: Standard accuracy measure calculated using sklearn’s function.
--	AUC (Area Under the Curve): Reflects the model’s ability to distinguish between classes, with higher values indicating better performance.
--	Brier Score: Evaluates the accuracy of probability predictions, with lower values indicating more accurate probability estimates. 
+-	**Precision:** Measures how many of the predicted positive cases are actually positive.
+-	**Recall (True Positive Rate):** Measures how well the model identifies actual positive cases.
+-	**True Negative Rate (Specificity):** Measures how well the model identifies actual negative cases.
+-	**False Positive Rate (FPR):** Measures the proportion of actual negatives incorrectly predicted as positive.
+-	**False Negative Rate (FNR):** Measures the proportion of actual positives incorrectly predicted as negative.
+-	**Balanced Accuracy (BACC):** Provides a balanced view of accuracy across classes, especially useful for imbalanced datasets.
+-	**True Skill Statistic (TSS):** Assesses the model's ability to distinguish between classes.
+-	**Heidke Skill Score (HSS):** Compares model performance to random chance.
+-	**F1 Score:** Balances Precision and Recall, offering a combined view of the two metrics.
+-	**Accuracy:** Overall correctness of the model’s predictions across both positive and negative cases.
+-	**Error Rate:** Proportion of incorrect predictions made by the model.
+-	**Sklearn Accuracy:** Standard accuracy measure calculated using sklearn’s function.
+-	**AUC (Area Under the Curve)**: Reflects the model’s ability to distinguish between classes, with higher values indicating better performance.
+-	**Brier Score:** Evaluates the accuracy of probability predictions, with lower values indicating more accurate probability estimates. 
 
 
 2. **10-Fold Cross Validation**:
